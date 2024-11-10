@@ -5,7 +5,7 @@ import pyperclip
 from getpass import getpass
 import utils
 
-panel = Panel("[bold blue]PASSWORD MANAGER[/bold blue]")
+panel = Panel("[bold blue]PassCRYPT[/bold blue]")
 print(panel)
 
 utils.initialisedb()
