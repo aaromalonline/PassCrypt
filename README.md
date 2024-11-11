@@ -1,6 +1,6 @@
 ## 💡 Overview
 
-This is a simple password manager 🔑 built by following basic principles of python programming and sqlite database. Key features include:
+This is a simple password manager 🔑 built by following basic principles of python programming and sqlite database. 
 
 ## ✨ Features
 
